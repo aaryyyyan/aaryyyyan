@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aaryyyyan/aaryyyyan/main/banner.png" width="100%" alt="Aryan Giri Banner">
+</p>
 <h1 align="center">Hi 👋 I'm Aryan Giri</h1>
 
 <h3 align="center">
